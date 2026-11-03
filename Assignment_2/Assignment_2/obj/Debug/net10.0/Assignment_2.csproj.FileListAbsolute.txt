@@ -1,0 +1,15 @@
+E:\web projects\Assignment_2\Assignment_2\bin\Debug\net10.0\Assignment_2.exe
+E:\web projects\Assignment_2\Assignment_2\bin\Debug\net10.0\Assignment_2.deps.json
+E:\web projects\Assignment_2\Assignment_2\bin\Debug\net10.0\Assignment_2.runtimeconfig.json
+E:\web projects\Assignment_2\Assignment_2\bin\Debug\net10.0\Assignment_2.dll
+E:\web projects\Assignment_2\Assignment_2\bin\Debug\net10.0\Assignment_2.pdb
+E:\web projects\Assignment_2\Assignment_2\obj\Debug\net10.0\Assignment_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\web projects\Assignment_2\Assignment_2\obj\Debug\net10.0\Assignment_2.AssemblyInfoInputs.cache
+E:\web projects\Assignment_2\Assignment_2\obj\Debug\net10.0\Assignment_2.AssemblyInfo.cs
+E:\web projects\Assignment_2\Assignment_2\obj\Debug\net10.0\Assignment_2.csproj.CoreCompileInputs.cache
+E:\web projects\Assignment_2\Assignment_2\obj\Debug\net10.0\Assignment_2.dll
+E:\web projects\Assignment_2\Assignment_2\obj\Debug\net10.0\refint\Assignment_2.dll
+E:\web projects\Assignment_2\Assignment_2\obj\Debug\net10.0\Assignment_2.pdb
+E:\web projects\Assignment_2\Assignment_2\obj\Debug\net10.0\Assignment_2.genruntimeconfig.cache
+E:\web projects\Assignment_2\Assignment_2\obj\Debug\net10.0\ref\Assignment_2.dll
+E:\web projects\Assignment_2\Assignment_2\obj\Debug\net10.0\Assignme.24507640.Up2Date
