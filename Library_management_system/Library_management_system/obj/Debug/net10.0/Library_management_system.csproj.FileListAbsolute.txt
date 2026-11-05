@@ -1,0 +1,15 @@
+E:\web projects\Library_management_system\Library_management_system\obj\Debug\net10.0\Library_management_system.GeneratedMSBuildEditorConfig.editorconfig
+E:\web projects\Library_management_system\Library_management_system\obj\Debug\net10.0\Library_management_system.AssemblyInfoInputs.cache
+E:\web projects\Library_management_system\Library_management_system\obj\Debug\net10.0\Library_management_system.AssemblyInfo.cs
+E:\web projects\Library_management_system\Library_management_system\obj\Debug\net10.0\Library_management_system.csproj.CoreCompileInputs.cache
+E:\web projects\Library_management_system\Library_management_system\bin\Debug\net10.0\Library_management_system.exe
+E:\web projects\Library_management_system\Library_management_system\bin\Debug\net10.0\Library_management_system.deps.json
+E:\web projects\Library_management_system\Library_management_system\bin\Debug\net10.0\Library_management_system.runtimeconfig.json
+E:\web projects\Library_management_system\Library_management_system\bin\Debug\net10.0\Library_management_system.dll
+E:\web projects\Library_management_system\Library_management_system\bin\Debug\net10.0\Library_management_system.pdb
+E:\web projects\Library_management_system\Library_management_system\obj\Debug\net10.0\Library_management_system.dll
+E:\web projects\Library_management_system\Library_management_system\obj\Debug\net10.0\refint\Library_management_system.dll
+E:\web projects\Library_management_system\Library_management_system\obj\Debug\net10.0\Library_management_system.pdb
+E:\web projects\Library_management_system\Library_management_system\obj\Debug\net10.0\Library_management_system.genruntimeconfig.cache
+E:\web projects\Library_management_system\Library_management_system\obj\Debug\net10.0\ref\Library_management_system.dll
+E:\web projects\Library_management_system\Library_management_system\obj\Debug\net10.0\Library_.CE3FD7F4.Up2Date
